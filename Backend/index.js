@@ -15,7 +15,7 @@ app.use(cors()); //get access to react frontend connect with the backend
 // react app is connected to express server in 4000
 
 // Database connection with mongodb
-mongoose.connect('mongodb+srv://hemmu3127:sowri0710@cluster0.bydvshc.mongodb.net/mango');
+mongoose.connect('please add your cluster and database url here');
 
 // API creation
 // to check whether that express server is running
